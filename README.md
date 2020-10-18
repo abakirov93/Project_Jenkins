@@ -141,6 +141,3 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword`$(tput sgr0)",
 
 
 
-
-<img width="685" alt="Screen Shot 2020-05-05 at 3 17 16 PM" src="https://user-images.githubusercontent.com/63379120/81111983-8cd96800-8ee3-11ea-9dc5-b69ce26993f7.png">
-
